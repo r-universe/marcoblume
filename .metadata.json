@@ -1,0 +1,10 @@
+[
+  {
+    "package": "pinnacle.API",
+    "oncran": true
+  },
+  {
+    "package": "pinnacle.data",
+    "oncran": true
+  }
+]
