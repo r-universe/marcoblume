@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "pinnacle.API"]
-	path = pinnacle.API
-	url = https://github.com/marcoblume/pinnacle.api
-	shallow = true
-	registered = true
 [submodule "pinnacle.data"]
 	path = pinnacle.data
 	url = https://github.com/marcoblume/pinnacle.data
+	shallow = true
+	registered = true
+[submodule "pinnacle.API"]
+	path = pinnacle.API
+	url = https://github.com/marcoblume/pinnacle.api
 	shallow = true
 	registered = true
