@@ -1,5 +1,9 @@
 [
   {
+    "package": "odds.converter",
+    "oncran": true
+  },
+  {
     "package": "pinnacle.API",
     "oncran": true
   },
