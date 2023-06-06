@@ -8,11 +8,6 @@
 	url = https://github.com/marcoblume/odds.converter
 	shallow = true
 	registered = true
-[submodule "pinnacle.API"]
-	path = pinnacle.API
-	url = https://github.com/marcoblume/pinnacle.api
-	shallow = true
-	registered = true
 [submodule "pinnacle.data"]
 	path = pinnacle.data
 	url = https://github.com/marcoblume/pinnacle.data
