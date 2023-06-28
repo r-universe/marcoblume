@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "odds.converter"]
 	path = odds.converter
 	url = https://github.com/marcoblume/odds.converter
-	shallow = true
-	registered = true
 [submodule "pinnacle.data"]
 	path = pinnacle.data
 	url = https://github.com/marcoblume/pinnacle.data
-	shallow = true
-	registered = true
